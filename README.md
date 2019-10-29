@@ -29,6 +29,10 @@ Video player
 * Customized display
 
 
+# Important (Windows users):
+
+You need to install LAVFilters (codecs)
+* https://github.com/Nevcairiel/LAVFilters/releases
 
 ## Exe
 
