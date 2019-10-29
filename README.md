@@ -30,4 +30,7 @@ Video player
 
 
 
+## Exe
+
+* [Exe](https://github.com/damiencot/Mpy4/releases/tag/V1.0)
 
